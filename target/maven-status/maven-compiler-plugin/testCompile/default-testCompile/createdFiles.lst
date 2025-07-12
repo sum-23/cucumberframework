@@ -1,0 +1,10 @@
+stepdefinitions\Register1.class
+repositories\LoginPage.class
+repositories\AccountPage.class
+repositories\HomePage.class
+repositories\RegisterPage.class
+repositories\SearchPage.class
+stepdefinitions\Login1.class
+hooks\Hooks.class
+stepdefinitions\Search1.class
+factory\DriverFactory.class
